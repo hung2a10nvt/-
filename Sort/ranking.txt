@@ -1,0 +1,601 @@
+Ranking of Participants: 
+ID: 38
+Points: 25
+Solved: 5
+Time: 213
+Attempts: 6
+
+ID: 51
+Points: 25
+Solved: 5
+Time: 292
+Attempts: 2
+
+ID: 89
+Points: 23
+Solved: 5
+Time: 162
+Attempts: 14
+
+ID: 53
+Points: 20
+Solved: 4
+Time: 146
+Attempts: 10
+
+ID: 72
+Points: 20
+Solved: 4
+Time: 267
+Attempts: 18
+
+ID: 71
+Points: 20
+Solved: 4
+Time: 290
+Attempts: 8
+
+ID: 43
+Points: 19
+Solved: 4
+Time: 192
+Attempts: 2
+
+ID: 78
+Points: 19
+Solved: 4
+Time: 237
+Attempts: 11
+
+ID: 45
+Points: 18
+Solved: 4
+Time: 266
+Attempts: 18
+
+ID: 58
+Points: 17
+Solved: 5
+Time: 150
+Attempts: 7
+
+ID: 15
+Points: 17
+Solved: 4
+Time: 147
+Attempts: 7
+
+ID: 56
+Points: 16
+Solved: 5
+Time: 92
+Attempts: 3
+
+ID: 19
+Points: 16
+Solved: 5
+Time: 139
+Attempts: 14
+
+ID: 74
+Points: 16
+Solved: 5
+Time: 274
+Attempts: 7
+
+ID: 20
+Points: 16
+Solved: 5
+Time: 294
+Attempts: 7
+
+ID: 62
+Points: 15
+Solved: 4
+Time: 76
+Attempts: 19
+
+ID: 1
+Points: 14
+Solved: 5
+Time: 153
+Attempts: 18
+
+ID: 91
+Points: 14
+Solved: 3
+Time: 97
+Attempts: 15
+
+ID: 10
+Points: 13
+Solved: 3
+Time: 154
+Attempts: 16
+
+ID: 68
+Points: 13
+Solved: 3
+Time: 172
+Attempts: 18
+
+ID: 18
+Points: 13
+Solved: 3
+Time: 254
+Attempts: 5
+
+ID: 49
+Points: 12
+Solved: 4
+Time: 229
+Attempts: 1
+
+ID: 98
+Points: 12
+Solved: 3
+Time: 134
+Attempts: 20
+
+ID: 31
+Points: 11
+Solved: 4
+Time: 71
+Attempts: 5
+
+ID: 96
+Points: 11
+Solved: 3
+Time: 190
+Attempts: 17
+
+ID: 52
+Points: 10
+Solved: 4
+Time: 75
+Attempts: 13
+
+ID: 73
+Points: 10
+Solved: 4
+Time: 97
+Attempts: 1
+
+ID: 42
+Points: 10
+Solved: 4
+Time: 197
+Attempts: 20
+
+ID: 95
+Points: 10
+Solved: 3
+Time: 135
+Attempts: 19
+
+ID: 26
+Points: 10
+Solved: 3
+Time: 199
+Attempts: 8
+
+ID: 4
+Points: 10
+Solved: 2
+Time: 164
+Attempts: 12
+
+ID: 61
+Points: 9
+Solved: 2
+Time: 61
+Attempts: 7
+
+ID: 70
+Points: 8
+Solved: 4
+Time: 74
+Attempts: 14
+
+ID: 50
+Points: 8
+Solved: 4
+Time: 112
+Attempts: 2
+
+ID: 28
+Points: 8
+Solved: 4
+Time: 205
+Attempts: 5
+
+ID: 83
+Points: 8
+Solved: 4
+Time: 217
+Attempts: 5
+
+ID: 3
+Points: 8
+Solved: 3
+Time: 119
+Attempts: 1
+
+ID: 92
+Points: 8
+Solved: 3
+Time: 215
+Attempts: 5
+
+ID: 32
+Points: 8
+Solved: 2
+Time: 195
+Attempts: 3
+
+ID: 100
+Points: 8
+Solved: 2
+Time: 207
+Attempts: 3
+
+ID: 37
+Points: 7
+Solved: 5
+Time: 73
+Attempts: 17
+
+ID: 77
+Points: 7
+Solved: 4
+Time: 231
+Attempts: 18
+
+ID: 11
+Points: 7
+Solved: 3
+Time: 218
+Attempts: 12
+
+ID: 23
+Points: 7
+Solved: 3
+Time: 298
+Attempts: 18
+
+ID: 86
+Points: 7
+Solved: 2
+Time: 88
+Attempts: 9
+
+ID: 35
+Points: 7
+Solved: 2
+Time: 180
+Attempts: 8
+
+ID: 41
+Points: 7
+Solved: 2
+Time: 211
+Attempts: 2
+
+ID: 82
+Points: 7
+Solved: 2
+Time: 259
+Attempts: 4
+
+ID: 69
+Points: 7
+Solved: 2
+Time: 259
+Attempts: 9
+
+ID: 88
+Points: 6
+Solved: 4
+Time: 95
+Attempts: 12
+
+ID: 12
+Points: 6
+Solved: 4
+Time: 208
+Attempts: 3
+
+ID: 90
+Points: 6
+Solved: 3
+Time: 244
+Attempts: 10
+
+ID: 27
+Points: 6
+Solved: 2
+Time: 68
+Attempts: 10
+
+ID: 54
+Points: 6
+Solved: 2
+Time: 96
+Attempts: 14
+
+ID: 14
+Points: 6
+Solved: 2
+Time: 150
+Attempts: 2
+
+ID: 13
+Points: 5
+Solved: 3
+Time: 108
+Attempts: 1
+
+ID: 48
+Points: 5
+Solved: 2
+Time: 66
+Attempts: 8
+
+ID: 66
+Points: 5
+Solved: 2
+Time: 73
+Attempts: 9
+
+ID: 25
+Points: 5
+Solved: 1
+Time: 166
+Attempts: 19
+
+ID: 8
+Points: 4
+Solved: 4
+Time: 242
+Attempts: 17
+
+ID: 79
+Points: 4
+Solved: 4
+Time: 255
+Attempts: 4
+
+ID: 6
+Points: 4
+Solved: 2
+Time: 62
+Attempts: 13
+
+ID: 39
+Points: 4
+Solved: 2
+Time: 186
+Attempts: 1
+
+ID: 60
+Points: 4
+Solved: 1
+Time: 103
+Attempts: 6
+
+ID: 81
+Points: 4
+Solved: 1
+Time: 222
+Attempts: 14
+
+ID: 9
+Points: 3
+Solved: 2
+Time: 101
+Attempts: 0
+
+ID: 80
+Points: 3
+Solved: 2
+Time: 111
+Attempts: 11
+
+ID: 22
+Points: 3
+Solved: 2
+Time: 217
+Attempts: 1
+
+ID: 29
+Points: 3
+Solved: 2
+Time: 282
+Attempts: 9
+
+ID: 33
+Points: 3
+Solved: 2
+Time: 282
+Attempts: 9
+
+ID: 84
+Points: 3
+Solved: 1
+Time: 92
+Attempts: 0
+
+ID: 57
+Points: 3
+Solved: 1
+Time: 100
+Attempts: 9
+
+ID: 17
+Points: 3
+Solved: 1
+Time: 129
+Attempts: 20
+
+ID: 59
+Points: 2
+Solved: 2
+Time: 216
+Attempts: 16
+
+ID: 36
+Points: 2
+Solved: 1
+Time: 72
+Attempts: 11
+
+ID: 94
+Points: 2
+Solved: 1
+Time: 83
+Attempts: 1
+
+ID: 40
+Points: 1
+Solved: 1
+Time: 176
+Attempts: 6
+
+ID: 64
+Points: 1
+Solved: 1
+Time: 247
+Attempts: 1
+
+ID: 93
+Points: 1
+Solved: 1
+Time: 274
+Attempts: 6
+
+ID: 46
+Points: 1
+Solved: 1
+Time: 285
+Attempts: 10
+
+ID: 2
+Points: 0
+Solved: 1
+Time: 116
+Attempts: 12
+
+ID: 75
+Points: 0
+Solved: 1
+Time: 130
+Attempts: 17
+
+ID: 97
+Points: 0
+Solved: 1
+Time: 203
+Attempts: 0
+
+ID: 44
+Points: 0
+Solved: 0
+Time: 85
+Attempts: 16
+
+ID: 16
+Points: 0
+Solved: 0
+Time: 90
+Attempts: 5
+
+ID: 21
+Points: 0
+Solved: 0
+Time: 100
+Attempts: 12
+
+ID: 5
+Points: 0
+Solved: 0
+Time: 105
+Attempts: 9
+
+ID: 7
+Points: 0
+Solved: 0
+Time: 109
+Attempts: 6
+
+ID: 99
+Points: 0
+Solved: 0
+Time: 119
+Attempts: 2
+
+ID: 63
+Points: 0
+Solved: 0
+Time: 120
+Attempts: 7
+
+ID: 76
+Points: 0
+Solved: 0
+Time: 121
+Attempts: 7
+
+ID: 24
+Points: 0
+Solved: 0
+Time: 130
+Attempts: 12
+
+ID: 34
+Points: 0
+Solved: 0
+Time: 154
+Attempts: 12
+
+ID: 67
+Points: 0
+Solved: 0
+Time: 188
+Attempts: 20
+
+ID: 65
+Points: 0
+Solved: 0
+Time: 228
+Attempts: 13
+
+ID: 55
+Points: 0
+Solved: 0
+Time: 241
+Attempts: 10
+
+ID: 85
+Points: 0
+Solved: 0
+Time: 260
+Attempts: 11
+
+ID: 30
+Points: 0
+Solved: 0
+Time: 261
+Attempts: 5
+
+ID: 87
+Points: 0
+Solved: 0
+Time: 288
+Attempts: 3
+
+ID: 47
+Points: 0
+Solved: 0
+Time: 300
+Attempts: 1
+
